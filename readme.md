@@ -108,4 +108,4 @@ Upload an MRI image to get a live prediction.
 
 ## Notes
 - This project is for educational/portfolio purposes only and is **not** a medical diagnostic tool.
-- A separate academic dissertation project (`docs/CSE_FINAL_YEAR_Project_Proposal.pdf`) covers a related but distinct CNN + XAI approach to MRI analysis, completed as part of a group final-year project.
+- A separate academic dissertation project (`docs/CSE_NIT_PROJECT_REPORT_FINAL.pdf`) covers a related but distinct CNN + XAI approach to MRI analysis, completed as part of a group final-year project.
